@@ -1,7 +1,7 @@
 # Roshan Kumar (roshan7460)
 
 Hello — I’m Roshan Kumar, a Data Science student dedicated to transforming data into actionable insights. I focus on applying statistical analysis and machine learning to solve real-world problems and deliver clear, data-driven recommendations.
-
+❤️ Sponsor me on GitHub: https://github.com/sponsors/roshan7460
 ## Areas of Interest
 - Machine learning
 - Data visualization
